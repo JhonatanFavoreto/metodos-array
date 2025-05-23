@@ -1,4 +1,4 @@
-// pop() - Remove o último elemento do array
+// pop() - Removendo o último elemento do array
 let playlist = ['Funk', 'Hip-Hop', 'Pop'];
 console.log("Antes do pop:", playlist);
 
